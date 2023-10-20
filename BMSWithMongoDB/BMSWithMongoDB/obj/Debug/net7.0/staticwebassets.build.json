@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0v+CKVuTX+ifXrOyhLx9XDTYmk/70En9eoCI1P881go=",
+  "Source": "BMSWithMongoDB",
+  "BasePath": "_content/BMSWithMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

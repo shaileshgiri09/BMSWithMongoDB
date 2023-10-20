@@ -1,0 +1,15 @@
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\bin\Debug\net7.0\BMS.Infrastructure.deps.json
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\bin\Debug\net7.0\BMS.Infrastructure.dll
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\bin\Debug\net7.0\BMS.Infrastructure.pdb
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\bin\Debug\net7.0\BMS.Domain.dll
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\bin\Debug\net7.0\BMS.Domain.pdb
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\BMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\BMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\BMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\BMS.Infrastructure.AssemblyInfo.cs
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\BMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\BMS.Infrastructure.csproj.CopyComplete
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\BMS.Infrastructure.dll
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\refint\BMS.Infrastructure.dll
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\BMS.Infrastructure.pdb
+C:\Users\CS-LC-03\source\webApi\BMSWithMongoDB\BMS.Infrastructure\obj\Debug\net7.0\ref\BMS.Infrastructure.dll
